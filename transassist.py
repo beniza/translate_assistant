@@ -9,6 +9,8 @@ from googletrans import Translator
 # version 4 rc supports it. I installed it using pip install googletrans==4.0.0rc1
 # To uninstall currently installed version, pip uninstall googletrans
 
+# NOTE: This is my very first Qt application
+
 # TODO: Add support for [deep-translator](https://pypi.org/project/deep-translator/),\
 # [py translaor](https://pypi.org/project/py-translator/) and
 # [translate-api](https://pypi.org/project/translate-api/)
